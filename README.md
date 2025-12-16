@@ -1,6 +1,6 @@
 Python Quiz Game
 Overview
-This is a Python-based quiz game inspired by KBC (Kaun Banega Crorepati). The game asks multiple-choice questions, tracks your score, and provides instant feedback on your answers.​
+This is a Python-based quiz game inspired by KBC. The game asks multiple-choice questions, tracks your score, and provides instant feedback on your answers.​
 
 Features
 Multiple-choice questions
@@ -22,8 +22,8 @@ At the end, your total score will be displayed.​
 
 Setup
 Make sure Python is installed on your system.
-Run the game using:
 
+Run the game using:
 python Quiz.py
 
 Game Instructions
